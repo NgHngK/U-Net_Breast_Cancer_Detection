@@ -28,7 +28,7 @@ dataset/
 
 # Dataset
 Al-Dhabyani W, Gomaa M, Khaled H, Fahmy A. Dataset of breast ultrasound images. Data in Brief. 2020 Feb;28:104863. DOI: 10.1016/j.dib.2019.104863.
-These for the examples of the images:
+These are the examples of the images:
 
 ![image](https://github.com/user-attachments/assets/5146f1ac-17f3-4d40-a09f-269c7fcc609a)
 
