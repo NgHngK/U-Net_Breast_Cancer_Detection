@@ -51,4 +51,5 @@ The prediction is presented in the pictures below. From the left to right are or
 ![image](https://github.com/user-attachments/assets/07197178-5572-49c3-b6da-691f57ac5910)
 
 
-
+# Acknowledgement
+This project is done by a group of students from Hanoi University of Science and Technology. Thanks for the contribution from Nguyen Tat Hung (Leader), Nguyen Vu Thuy, Le Nhat Hoang, Nguyen Thanh Vinh.
