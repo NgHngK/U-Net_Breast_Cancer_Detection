@@ -32,6 +32,10 @@ These are the examples of the images:
 
 ![image](https://github.com/user-attachments/assets/5146f1ac-17f3-4d40-a09f-269c7fcc609a)
 
+The dataset can be downloaded through this link:
+<pre>
+    https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset
+</pre>
 
 # Evaluation
 U-net appears to be a powerful model in this task when its valid accuration achieves up to 97.7%. The ratio of train-valid set is 80% - 20%. Below is the training and validating graphs:
